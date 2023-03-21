@@ -1,10 +1,13 @@
 # code-challenge-
+<<<<<<< HEAD
 Description of the problem you are solving.
 Explanation of the solution you have implemented.
 Instructions on how to use and run your solution.
 Any dependencies or prerequisites needed to run your solution.
 Examples or screenshots of your solution in action.
 # code-challenge-
+=======
+>>>>>>> 0b45719d76d14a5069d084d330b29cf78594c01b
 # Student Grade Generator
 
 This is a simple JavaScript program that prompts the user to input a student's mark and 
@@ -32,4 +35,8 @@ This is a simple program that takes the speed of a car as input and checks if th
 
 # Net Salary Calculator Program
 
+<<<<<<< HEAD
 This is a program that calculates an individual's net salary based on their basic salary and benefits. It calculates the payee (tax), NHIF deductions, NSSf deductions, gross salary, and net salary.
+=======
+This is a program that calculates an individual's net salary based on their basic salary and benefits. It calculates the payee (tax), NHIF deductions, NSSf deductions, gross salary, and net salary.
+>>>>>>> 0b45719d76d14a5069d084d330b29cf78594c01b
